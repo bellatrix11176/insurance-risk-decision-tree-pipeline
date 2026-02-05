@@ -1,0 +1,662 @@
+CustomerID,Gender,Age,MaritalStatus,AtFaultAccidents,MovingViolations,CompClaims,NumberOfClaims,LatePayments,PaymentMethod,InsuranceCategory
+6255,M,36,M,0,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+6730,M,47,S,3,Yes,Yes,3,Yes,Annual Billing,High Risk - Do Not Insure
+7863,M,49,M,3,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+5452,M,26,M,1,Yes,Yes,1,No,Annual Billing,Moderate Risk
+7950,F,50,M,2,Yes,No,2,No,Annual Billing,Potentially High Risk
+7077,M,65,S,1,Yes,No,1,Yes,Monthly Billing,Moderate Risk
+5359,F,26,M,0,No,No,2,No,Bank Transfer,Low Risk
+2717,M,27,M,1,No,No,2,No,Monthly Billing,Moderate Risk
+9830,F,23,S,2,Yes,No,2,Yes,Annual Billing,Potentially High Risk
+2561,F,32,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+1099,M,45,S,1,Yes,Yes,4,No,Annual Billing,Moderate Risk
+2242,M,31,M,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+8536,F,28,M,0,No,No,0,No,Bank Transfer,Low Risk
+5693,M,21,S,3,Yes,No,3,Yes,Annual Billing,Potentially High Risk
+4025,M,34,S,2,Yes,No,2,Yes,Monthly Billing,Potentially High Risk
+7508,M,45,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+6551,F,55,S,1,Yes,No,2,No,Monthly Billing,Potentially High Risk
+9555,M,54,S,1,No,Yes,3,Yes,Monthly Billing,Potentially High Risk
+6037,F,42,M,3,Yes,No,3,Yes,Annual Billing,Potentially High Risk
+6511,M,56,M,0,Yes,No,2,Yes,Monthly Billing,Moderate Risk
+5182,M,41,M,1,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+3471,M,32,S,0,Yes,Yes,3,Yes,Bank Transfer,Moderate Risk
+2853,M,44,M,3,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+1943,F,25,M,0,Yes,No,2,Yes,Monthly Billing,Moderate Risk
+1555,M,40,M,0,Yes,Yes,1,Yes,Bank Transfer,Moderate Risk
+7144,M,40,S,1,Yes,Yes,1,No,Bank Transfer,Moderate Risk
+5796,F,64,M,1,Yes,Yes,3,Yes,Annual Billing,High Risk - Do Not Insure
+7405,M,23,S,1,Yes,No,3,Yes,Annual Billing,Potentially High Risk
+3224,M,55,S,0,Yes,Yes,1,Yes,Bank Transfer,Low Risk
+5981,F,36,S,2,Yes,Yes,2,No,Monthly Billing,High Risk - Do Not Insure
+7498,F,18,S,2,Yes,Yes,2,Yes,Annual Billing,High Risk - Do Not Insure
+1308,M,85,S,1,Yes,Yes,4,Yes,Annual Billing,High Risk - Do Not Insure
+1958,M,31,S,2,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+8307,M,36,M,0,No,No,5,No,Bank Transfer,Moderate Risk
+7367,M,65,S,3,Yes,Yes,4,Yes,Monthly Billing,High Risk - Do Not Insure
+6252,F,28,M,0,Yes,No,0,No,Annual Billing,Low Risk
+4656,F,29,S,0,Yes,No,1,No,Bank Transfer,Low Risk
+7850,F,74,S,3,Yes,No,3,Yes,Annual Billing,Potentially High Risk
+3280,F,47,S,1,Yes,Yes,1,Yes,Annual Billing,Potentially High Risk
+2284,M,59,M,0,No,Yes,3,No,Bank Transfer,Low Risk
+2050,M,66,M,0,Yes,No,4,Yes,Bank Transfer,Moderate Risk
+9312,F,53,S,0,No,No,2,No,Bank Transfer,Low Risk
+5699,M,64,M,0,Yes,Yes,3,No,Bank Transfer,Moderate Risk
+4954,F,20,S,1,Yes,No,5,Yes,Monthly Billing,Potentially High Risk
+1548,M,51,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+9120,M,30,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+4315,M,59,S,0,Yes,No,0,No,Bank Transfer,Low Risk
+1197,F,44,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+4026,F,31,M,0,Yes,Yes,5,No,Bank Transfer,Moderate Risk
+8737,F,50,M,0,Yes,No,5,Yes,Annual Billing,Moderate Risk
+1600,F,56,S,1,Yes,No,4,Yes,Annual Billing,Potentially High Risk
+3286,F,22,S,3,Yes,Yes,3,No,Monthly Billing,Potentially High Risk
+3560,F,45,M,0,Yes,No,0,Yes,Annual Billing,Moderate Risk
+2076,F,17,S,0,Yes,No,2,No,Annual Billing,Moderate Risk
+5768,F,44,M,0,No,No,0,No,Bank Transfer,Low Risk
+8294,M,57,S,0,Yes,No,3,No,Bank Transfer,Moderate Risk
+9482,F,35,S,2,Yes,Yes,2,No,Monthly Billing,Potentially High Risk
+2093,F,33,S,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+8620,F,57,M,2,Yes,Yes,3,No,Monthly Billing,Potentially High Risk
+5062,M,52,M,1,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+6553,M,76,M,1,Yes,Yes,4,No,Monthly Billing,Moderate Risk
+9136,F,57,S,0,Yes,No,0,Yes,Bank Transfer,Moderate Risk
+4102,M,57,S,0,Yes,No,1,No,Bank Transfer,Low Risk
+1931,M,41,S,0,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+6473,M,16,S,0,Yes,No,2,No,Monthly Billing,Moderate Risk
+6121,M,62,M,0,Yes,No,0,No,Bank Transfer,Low Risk
+3784,M,60,M,3,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+6411,M,51,M,0,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+4695,F,44,M,0,Yes,Yes,5,Yes,Monthly Billing,Moderate Risk
+2918,M,34,S,0,No,No,2,No,Monthly Billing,Low Risk
+4822,M,48,S,1,Yes,No,1,No,Monthly Billing,Moderate Risk
+5962,M,34,M,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+4570,F,49,M,3,No,Yes,4,No,Annual Billing,Potentially High Risk
+8527,F,38,S,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+9983,M,23,S,1,Yes,No,3,Yes,Bank Transfer,Potentially High Risk
+1155,M,57,M,0,Yes,No,3,Yes,Monthly Billing,Moderate Risk
+7914,M,36,S,0,No,No,0,No,Bank Transfer,Low Risk
+7344,F,17,S,0,Yes,Yes,2,No,Monthly Billing,Moderate Risk
+9787,F,51,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+4094,M,58,M,0,Yes,No,0,No,Bank Transfer,Low Risk
+7957,M,52,M,0,Yes,No,0,Yes,Bank Transfer,Moderate Risk
+8567,M,50,S,1,Yes,No,3,No,Annual Billing,Moderate Risk
+2473,M,52,M,0,Yes,No,3,Yes,Annual Billing,Moderate Risk
+6833,F,44,S,0,No,No,2,No,Bank Transfer,Low Risk
+4054,F,31,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+9329,M,33,M,0,No,No,0,No,Bank Transfer,Low Risk
+6681,F,17,S,1,Yes,No,4,Yes,Annual Billing,Potentially High Risk
+6760,F,21,S,0,Yes,No,3,No,Annual Billing,Moderate Risk
+9647,M,22,S,1,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+2937,F,29,S,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+2149,M,46,M,0,Yes,Yes,1,Yes,Monthly Billing,Moderate Risk
+4201,F,46,S,3,Yes,Yes,3,No,Monthly Billing,High Risk - Do Not Insure
+8140,F,29,S,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+5432,F,74,S,3,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+3250,F,26,S,2,Yes,Yes,3,No,Monthly Billing,High Risk - Do Not Insure
+8760,F,52,S,0,Yes,No,1,No,Annual Billing,Low Risk
+7421,M,37,S,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+5801,F,63,M,2,No,Yes,2,Yes,Annual Billing,Moderate Risk
+6050,F,47,M,0,Yes,No,1,Yes,Monthly Billing,Moderate Risk
+6415,F,62,M,1,No,Yes,1,No,Monthly Billing,Moderate Risk
+1157,M,49,M,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+9323,F,81,M,2,Yes,No,3,No,Monthly Billing,Potentially High Risk
+3277,M,48,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+2322,F,49,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+4192,F,33,S,0,Yes,Yes,3,No,Bank Transfer,Moderate Risk
+7192,M,40,M,3,Yes,Yes,3,Yes,Bank Transfer,Potentially High Risk
+4668,M,29,S,0,No,Yes,2,No,Bank Transfer,Low Risk
+5657,F,46,S,0,Yes,No,1,Yes,Monthly Billing,Moderate Risk
+7765,M,59,M,0,No,No,1,No,Annual Billing,Low Risk
+1598,M,30,M,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+1410,M,46,M,2,Yes,No,2,No,Bank Transfer,Potentially High Risk
+1265,F,34,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+2792,M,57,S,2,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+2831,M,48,S,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+8293,F,42,M,1,Yes,Yes,1,Yes,Bank Transfer,Moderate Risk
+6755,F,51,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+5222,M,20,S,0,Yes,No,3,No,Monthly Billing,Moderate Risk
+5646,F,39,M,1,No,No,1,No,Annual Billing,Moderate Risk
+3510,M,27,S,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+8636,M,73,M,0,No,Yes,2,No,Bank Transfer,Low Risk
+8119,F,26,S,2,Yes,Yes,4,Yes,Monthly Billing,High Risk - Do Not Insure
+5827,F,59,M,0,Yes,No,0,No,Bank Transfer,Low Risk
+8443,F,22,S,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+7484,M,61,M,1,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+9287,M,41,S,0,Yes,Yes,1,No,Annual Billing,Low Risk
+3488,F,50,S,0,Yes,Yes,1,Yes,Bank Transfer,Low Risk
+8408,M,18,S,1,Yes,No,1,Yes,Monthly Billing,Potentially High Risk
+6349,M,21,S,3,Yes,Yes,3,No,Monthly Billing,High Risk - Do Not Insure
+4503,F,38,M,2,Yes,No,2,Yes,Bank Transfer,Potentially High Risk
+2538,M,62,M,0,Yes,No,0,No,Annual Billing,Low Risk
+5439,M,22,S,0,Yes,No,5,No,Monthly Billing,Moderate Risk
+1187,F,27,M,0,Yes,Yes,2,Yes,Monthly Billing,Moderate Risk
+6383,M,24,S,1,Yes,Yes,4,No,Monthly Billing,High Risk - Do Not Insure
+2333,M,27,S,1,No,No,4,No,Monthly Billing,Potentially High Risk
+9423,M,52,M,3,Yes,Yes,3,No,Bank Transfer,Potentially High Risk
+8830,F,19,M,0,Yes,Yes,3,No,Bank Transfer,Moderate Risk
+6429,M,65,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+8492,F,65,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+9524,M,46,S,0,No,No,3,Yes,Bank Transfer,Moderate Risk
+9051,F,48,M,0,No,Yes,2,No,Bank Transfer,Low Risk
+8444,F,63,M,2,No,Yes,4,Yes,Annual Billing,High Risk - Do Not Insure
+9814,M,54,M,1,Yes,No,2,Yes,Annual Billing,Potentially High Risk
+2032,F,40,M,0,Yes,No,3,No,Annual Billing,Moderate Risk
+4745,F,50,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+3844,F,35,S,1,Yes,Yes,1,No,Monthly Billing,Potentially High Risk
+1908,F,40,M,0,Yes,No,2,No,Bank Transfer,Moderate Risk
+8771,M,52,S,0,Yes,Yes,3,Yes,Monthly Billing,Moderate Risk
+4846,M,59,M,0,Yes,No,3,No,Monthly Billing,Moderate Risk
+3582,F,51,M,3,Yes,Yes,3,Yes,Annual Billing,High Risk - Do Not Insure
+5957,F,37,M,2,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+9726,M,51,M,3,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+5540,M,48,M,0,No,No,0,No,Monthly Billing,Low Risk
+8772,F,44,M,0,Yes,Yes,3,No,Bank Transfer,Moderate Risk
+1901,M,35,M,3,Yes,Yes,3,No,Monthly Billing,Potentially High Risk
+9971,F,28,M,0,Yes,No,1,No,Bank Transfer,Low Risk
+1657,M,62,M,1,Yes,No,1,Yes,Monthly Billing,Potentially High Risk
+7012,F,61,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+6020,F,24,S,2,Yes,Yes,5,No,Monthly Billing,High Risk - Do Not Insure
+8399,F,53,M,0,Yes,No,1,No,Bank Transfer,Low Risk
+7372,M,57,M,2,Yes,No,2,No,Annual Billing,Potentially High Risk
+4419,M,28,M,0,Yes,No,0,Yes,Annual Billing,Moderate Risk
+3782,F,55,S,1,Yes,No,1,Yes,Monthly Billing,Moderate Risk
+1306,F,50,S,0,Yes,No,0,No,Annual Billing,Low Risk
+9380,F,50,M,1,Yes,Yes,2,No,Monthly Billing,Potentially High Risk
+6638,F,53,S,1,Yes,No,1,Yes,Monthly Billing,Potentially High Risk
+7990,F,28,M,2,Yes,No,2,Yes,Bank Transfer,Potentially High Risk
+5718,F,42,S,2,Yes,Yes,2,No,Bank Transfer,Potentially High Risk
+5539,F,40,S,0,Yes,Yes,1,No,Annual Billing,Low Risk
+8212,M,33,M,0,No,No,2,No,Bank Transfer,Low Risk
+9303,F,37,M,2,Yes,No,2,No,Monthly Billing,Potentially High Risk
+7468,F,60,M,0,No,Yes,2,Yes,Monthly Billing,Low Risk
+3146,M,53,S,1,Yes,No,2,Yes,Monthly Billing,Potentially High Risk
+1297,F,36,M,0,Yes,No,0,Yes,Monthly Billing,Moderate Risk
+1397,M,54,S,1,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+8852,F,52,M,2,Yes,Yes,2,Yes,Annual Billing,Potentially High Risk
+6639,M,74,M,1,Yes,No,3,No,Monthly Billing,Potentially High Risk
+9846,M,34,S,2,Yes,Yes,2,Yes,Annual Billing,High Risk - Do Not Insure
+9712,F,43,M,0,No,Yes,2,No,Bank Transfer,Low Risk
+6276,M,41,M,0,Yes,Yes,1,No,Annual Billing,Moderate Risk
+6631,F,58,S,1,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+1194,F,64,M,0,No,Yes,2,Yes,Monthly Billing,Low Risk
+5117,M,48,S,0,No,Yes,2,No,Monthly Billing,Low Risk
+1882,F,57,M,0,Yes,No,0,Yes,Bank Transfer,Moderate Risk
+9431,M,17,S,2,Yes,Yes,2,Yes,Annual Billing,Potentially High Risk
+3678,M,29,S,3,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+4162,M,64,M,0,No,No,1,No,Bank Transfer,Low Risk
+7175,F,33,S,1,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+3411,F,36,S,2,Yes,No,2,No,Annual Billing,Moderate Risk
+2615,M,66,M,1,Yes,No,1,Yes,Monthly Billing,Moderate Risk
+3105,F,36,S,2,Yes,No,2,Yes,Bank Transfer,Potentially High Risk
+7747,M,57,M,2,No,No,3,No,Bank Transfer,Moderate Risk
+8499,F,55,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+8660,F,43,M,0,Yes,Yes,2,Yes,Annual Billing,Moderate Risk
+2528,M,59,S,2,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+5886,M,54,S,0,No,No,1,No,Bank Transfer,Low Risk
+8910,M,70,S,0,No,Yes,1,Yes,Monthly Billing,Moderate Risk
+6200,F,31,S,2,Yes,No,2,Yes,Bank Transfer,Potentially High Risk
+9765,M,48,S,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+1298,F,48,S,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+8663,M,43,S,0,No,Yes,2,No,Bank Transfer,Low Risk
+1338,F,56,S,0,No,No,2,No,Bank Transfer,Low Risk
+5720,M,57,S,1,No,Yes,1,Yes,Bank Transfer,Moderate Risk
+2104,F,62,M,2,Yes,No,2,No,Monthly Billing,Moderate Risk
+9178,F,45,M,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+6182,M,41,S,1,Yes,No,1,Yes,Monthly Billing,Potentially High Risk
+8313,M,49,S,0,Yes,Yes,2,Yes,Bank Transfer,Moderate Risk
+8726,F,28,M,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+1404,F,30,M,0,No,Yes,2,No,Bank Transfer,Low Risk
+8464,F,26,S,3,No,No,3,Yes,Annual Billing,Potentially High Risk
+6554,F,29,M,0,Yes,No,3,No,Bank Transfer,Moderate Risk
+7437,M,37,M,1,Yes,No,4,No,Annual Billing,Potentially High Risk
+2002,F,57,S,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+1486,M,35,S,0,Yes,No,1,No,Bank Transfer,Low Risk
+5387,M,44,M,2,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+4122,M,58,M,0,No,Yes,1,No,Annual Billing,Low Risk
+9314,F,32,S,1,Yes,Yes,1,Yes,Annual Billing,Potentially High Risk
+5249,F,37,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+7016,M,58,S,0,No,No,2,No,Bank Transfer,Low Risk
+9323,M,44,M,2,No,Yes,2,Yes,Monthly Billing,Potentially High Risk
+1481,F,54,M,2,Yes,Yes,2,No,Monthly Billing,Potentially High Risk
+8920,M,51,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+5832,M,55,M,1,Yes,Yes,1,Yes,Annual Billing,Moderate Risk
+4939,M,17,S,2,Yes,Yes,2,Yes,Bank Transfer,Potentially High Risk
+7305,M,23,S,3,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+8730,F,46,M,2,Yes,No,2,Yes,Monthly Billing,Potentially High Risk
+8360,F,56,M,0,Yes,Yes,1,Yes,Monthly Billing,Moderate Risk
+2459,M,42,M,0,No,No,0,No,Bank Transfer,Low Risk
+4579,M,55,M,0,Yes,No,4,Yes,Bank Transfer,Moderate Risk
+2756,F,34,S,0,Yes,No,4,No,Monthly Billing,Moderate Risk
+1441,M,43,M,0,No,No,0,No,Bank Transfer,Low Risk
+4934,F,41,M,0,Yes,Yes,1,No,Bank Transfer,Moderate Risk
+7232,M,19,S,1,Yes,No,1,No,Bank Transfer,Potentially High Risk
+3590,F,63,S,0,Yes,No,3,No,Annual Billing,Moderate Risk
+4321,M,54,S,1,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+9479,M,29,S,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+6875,F,25,S,0,Yes,Yes,1,No,Annual Billing,Moderate Risk
+4317,M,18,S,0,Yes,Yes,4,No,Bank Transfer,Moderate Risk
+7922,M,43,S,0,Yes,Yes,1,Yes,Annual Billing,Moderate Risk
+2504,M,41,S,0,No,Yes,2,No,Monthly Billing,Low Risk
+1080,F,33,S,0,Yes,Yes,3,No,Annual Billing,Moderate Risk
+7425,M,63,S,0,Yes,No,3,No,Monthly Billing,Moderate Risk
+9688,M,48,M,2,Yes,Yes,2,No,Monthly Billing,High Risk - Do Not Insure
+7118,F,59,M,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+3828,F,80,M,1,Yes,No,1,Yes,Annual Billing,Potentially High Risk
+7687,F,52,S,0,Yes,Yes,3,No,Annual Billing,Moderate Risk
+6098,M,37,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+3094,M,54,M,0,Yes,No,1,Yes,Annual Billing,Moderate Risk
+7250,F,34,S,1,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+2053,F,17,S,2,Yes,No,2,Yes,Annual Billing,Potentially High Risk
+8363,M,56,S,0,No,No,2,No,Bank Transfer,Low Risk
+6082,M,17,S,3,Yes,Yes,5,Yes,Monthly Billing,High Risk - Do Not Insure
+6087,F,36,M,0,No,Yes,3,No,Annual Billing,Low Risk
+5277,M,37,S,0,Yes,No,0,No,Bank Transfer,Low Risk
+4610,M,32,M,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+3637,F,43,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+9330,M,62,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+3520,M,55,M,0,No,Yes,3,No,Bank Transfer,Low Risk
+4994,M,22,S,0,Yes,No,3,No,Bank Transfer,Moderate Risk
+2009,F,34,S,1,Yes,Yes,2,No,Annual Billing,Potentially High Risk
+3894,M,18,S,3,No,Yes,3,Yes,Annual Billing,Potentially High Risk
+6200,F,43,M,0,Yes,Yes,4,Yes,Annual Billing,Moderate Risk
+3135,F,46,M,0,Yes,Yes,1,Yes,Annual Billing,Moderate Risk
+6705,M,51,S,2,Yes,Yes,2,No,Monthly Billing,High Risk - Do Not Insure
+1712,F,40,M,1,Yes,Yes,2,Yes,Annual Billing,High Risk - Do Not Insure
+2522,M,39,M,1,Yes,No,1,Yes,Monthly Billing,Potentially High Risk
+2061,M,29,M,1,Yes,No,3,No,Monthly Billing,Moderate Risk
+5482,M,38,S,1,Yes,Yes,1,No,Annual Billing,Potentially High Risk
+7969,F,26,M,0,Yes,No,1,Yes,Annual Billing,Moderate Risk
+6018,F,56,S,0,Yes,No,0,No,Monthly Billing,Low Risk
+7548,F,21,M,0,No,No,1,No,Annual Billing,Low Risk
+1815,M,20,S,0,Yes,No,0,No,Monthly Billing,Low Risk
+1877,F,40,M,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+1825,M,23,M,0,Yes,Yes,2,No,Bank Transfer,Moderate Risk
+5273,M,35,M,1,Yes,Yes,3,No,Bank Transfer,Moderate Risk
+1211,F,59,M,0,Yes,Yes,4,Yes,Monthly Billing,Moderate Risk
+4514,M,45,M,3,Yes,Yes,3,Yes,Bank Transfer,Potentially High Risk
+3567,F,20,S,0,Yes,Yes,2,No,Annual Billing,Moderate Risk
+9938,M,57,S,1,No,Yes,4,Yes,Bank Transfer,Potentially High Risk
+2237,F,46,S,1,Yes,Yes,1,No,Monthly Billing,Potentially High Risk
+1757,F,50,M,0,No,Yes,2,No,Bank Transfer,Low Risk
+2227,M,41,S,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+1549,M,43,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+8173,M,24,M,0,No,Yes,3,Yes,Bank Transfer,Moderate Risk
+2825,F,34,M,2,Yes,Yes,2,Yes,Bank Transfer,Potentially High Risk
+3089,M,46,M,2,Yes,No,2,No,Monthly Billing,Potentially High Risk
+1500,M,22,M,0,Yes,No,0,No,Bank Transfer,Low Risk
+2621,M,32,S,0,Yes,Yes,1,No,Bank Transfer,Moderate Risk
+2073,F,46,S,0,Yes,No,0,Yes,Monthly Billing,Low Risk
+6472,M,39,M,1,Yes,No,1,No,Monthly Billing,Moderate Risk
+6994,M,72,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+4267,M,28,S,0,Yes,No,3,Yes,Bank Transfer,Potentially High Risk
+2412,F,41,S,0,Yes,No,5,No,Monthly Billing,Moderate Risk
+6804,M,22,S,0,Yes,Yes,1,No,Bank Transfer,Moderate Risk
+3582,F,47,S,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+1995,F,39,M,0,Yes,No,0,No,Bank Transfer,Low Risk
+6916,M,42,S,0,Yes,Yes,1,Yes,Bank Transfer,Moderate Risk
+4544,M,43,M,0,Yes,Yes,3,Yes,Bank Transfer,Moderate Risk
+8248,F,48,S,0,Yes,Yes,1,Yes,Monthly Billing,Low Risk
+8587,F,26,M,0,Yes,Yes,3,No,Monthly Billing,Moderate Risk
+1004,M,62,M,1,Yes,Yes,1,No,Monthly Billing,Potentially High Risk
+7401,F,50,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+3121,M,60,M,2,Yes,No,2,No,Monthly Billing,Moderate Risk
+3941,M,29,S,0,Yes,No,3,No,Bank Transfer,Moderate Risk
+5746,F,53,M,1,Yes,No,1,Yes,Annual Billing,Potentially High Risk
+2364,M,58,S,0,Yes,No,0,No,Bank Transfer,Low Risk
+6471,F,55,S,1,Yes,Yes,5,No,Bank Transfer,Moderate Risk
+8742,F,58,S,1,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+7988,M,47,M,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+6138,F,49,M,2,Yes,No,3,No,Monthly Billing,Potentially High Risk
+8974,F,34,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+1325,F,22,M,0,Yes,No,0,No,Monthly Billing,Low Risk
+2247,F,53,S,1,Yes,No,1,Yes,Monthly Billing,Potentially High Risk
+6303,M,41,M,0,Yes,Yes,3,Yes,Monthly Billing,Moderate Risk
+8490,F,55,S,0,No,No,1,No,Bank Transfer,Low Risk
+9041,F,29,S,2,Yes,No,2,No,Annual Billing,Potentially High Risk
+7666,M,38,S,2,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+7265,F,22,M,0,Yes,No,1,No,Monthly Billing,Low Risk
+5706,F,23,M,0,Yes,Yes,5,No,Monthly Billing,Moderate Risk
+9832,M,49,S,2,Yes,Yes,5,Yes,Monthly Billing,Potentially High Risk
+8634,M,77,S,1,Yes,Yes,1,No,Bank Transfer,Low Risk
+3707,F,27,M,0,Yes,Yes,1,No,Annual Billing,Low Risk
+4169,F,57,M,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+4896,F,53,S,3,Yes,No,3,No,Annual Billing,Potentially High Risk
+8153,M,49,M,0,No,No,2,No,Monthly Billing,Low Risk
+6067,F,26,M,0,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+5439,M,54,S,2,Yes,Yes,5,Yes,Monthly Billing,High Risk - Do Not Insure
+4803,M,46,S,1,Yes,No,1,Yes,Annual Billing,Potentially High Risk
+9730,F,48,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+7798,M,56,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+4130,M,40,M,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+7426,M,61,S,0,Yes,Yes,1,No,Annual Billing,Low Risk
+2728,F,45,M,0,Yes,No,2,Yes,Monthly Billing,Moderate Risk
+5676,M,17,S,0,Yes,Yes,2,Yes,Annual Billing,Moderate Risk
+7969,F,35,S,2,Yes,Yes,2,No,Monthly Billing,High Risk - Do Not Insure
+3465,M,52,S,2,Yes,Yes,2,No,Monthly Billing,Potentially High Risk
+3753,M,21,S,1,No,Yes,2,Yes,Monthly Billing,Potentially High Risk
+8136,F,23,S,0,Yes,Yes,1,Yes,Annual Billing,Moderate Risk
+9383,F,45,S,0,No,Yes,1,No,Bank Transfer,Low Risk
+5174,M,62,M,1,Yes,Yes,3,No,Monthly Billing,Moderate Risk
+2560,F,60,M,2,Yes,Yes,5,Yes,Monthly Billing,Potentially High Risk
+3694,M,58,M,2,Yes,Yes,2,No,Annual Billing,Potentially High Risk
+1413,F,50,M,1,Yes,Yes,1,No,Bank Transfer,Moderate Risk
+1482,F,48,M,0,Yes,No,0,Yes,Bank Transfer,Moderate Risk
+4370,M,41,S,0,No,No,2,No,Bank Transfer,Low Risk
+4906,M,66,M,1,Yes,Yes,2,No,Bank Transfer,Moderate Risk
+8150,M,57,S,3,Yes,Yes,4,Yes,Bank Transfer,Potentially High Risk
+8510,M,84,S,1,Yes,Yes,1,Yes,Annual Billing,Moderate Risk
+1912,F,36,S,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+5201,M,30,M,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+4662,F,48,S,0,No,No,0,Yes,Monthly Billing,Low Risk
+5510,M,37,M,1,Yes,Yes,5,No,Monthly Billing,Potentially High Risk
+6241,M,56,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+9269,F,49,M,1,No,Yes,1,No,Annual Billing,Low Risk
+1177,M,48,M,2,Yes,Yes,3,No,Monthly Billing,Potentially High Risk
+8991,F,21,S,2,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+5642,M,43,S,1,Yes,Yes,2,Yes,Bank Transfer,Potentially High Risk
+2317,M,19,S,2,Yes,Yes,5,No,Annual Billing,Potentially High Risk
+6784,M,20,M,0,Yes,No,3,No,Annual Billing,Moderate Risk
+9033,F,29,S,0,No,No,2,No,Bank Transfer,Low Risk
+8666,M,61,M,0,No,Yes,2,No,Monthly Billing,Low Risk
+7445,F,59,M,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+4373,M,46,S,2,Yes,No,4,No,Annual Billing,Potentially High Risk
+7607,M,57,S,0,Yes,Yes,1,Yes,Bank Transfer,Low Risk
+4139,M,41,S,0,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+9088,F,48,S,0,Yes,Yes,1,Yes,Monthly Billing,Moderate Risk
+2040,F,39,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+1504,F,56,M,1,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+5906,M,55,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+7491,M,50,M,3,Yes,Yes,3,Yes,Bank Transfer,High Risk - Do Not Insure
+7991,F,51,S,3,Yes,Yes,3,No,Bank Transfer,Potentially High Risk
+7142,M,40,M,0,Yes,Yes,1,Yes,Bank Transfer,Moderate Risk
+1774,M,45,S,3,Yes,Yes,3,No,Monthly Billing,Potentially High Risk
+7336,F,22,S,3,Yes,Yes,3,No,Monthly Billing,Potentially High Risk
+5667,M,27,M,2,Yes,Yes,5,No,Monthly Billing,High Risk - Do Not Insure
+1524,M,63,M,3,Yes,Yes,5,Yes,Monthly Billing,Potentially High Risk
+7077,F,44,S,0,No,No,2,No,Bank Transfer,Low Risk
+9885,M,33,S,2,Yes,Yes,5,Yes,Bank Transfer,High Risk - Do Not Insure
+2093,F,23,S,1,Yes,Yes,3,Yes,Annual Billing,Potentially High Risk
+4934,M,43,S,0,Yes,Yes,3,No,Annual Billing,Moderate Risk
+6758,M,34,M,3,Yes,No,3,No,Annual Billing,Potentially High Risk
+5488,M,31,M,0,No,Yes,2,No,Bank Transfer,Low Risk
+3492,F,45,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+5623,F,50,M,2,Yes,Yes,5,Yes,Monthly Billing,High Risk - Do Not Insure
+8380,F,49,S,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+5967,M,61,S,0,Yes,No,1,Yes,Annual Billing,Moderate Risk
+2486,F,37,M,2,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+7610,M,50,M,1,Yes,No,1,Yes,Annual Billing,Potentially High Risk
+3123,F,29,M,3,No,No,3,Yes,Monthly Billing,Potentially High Risk
+7732,M,78,M,0,Yes,No,1,No,Monthly Billing,Low Risk
+9894,M,58,M,0,Yes,No,0,No,Bank Transfer,Low Risk
+4517,F,17,M,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+4758,F,28,S,2,Yes,Yes,3,No,Monthly Billing,High Risk - Do Not Insure
+5662,F,27,S,2,Yes,Yes,4,Yes,Monthly Billing,High Risk - Do Not Insure
+4141,M,45,S,0,No,No,2,No,Bank Transfer,Low Risk
+4344,F,37,M,3,Yes,No,3,Yes,Annual Billing,Potentially High Risk
+6773,M,41,M,0,No,Yes,2,No,Bank Transfer,Low Risk
+7770,F,19,S,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+5009,M,26,S,3,Yes,Yes,3,No,Monthly Billing,Potentially High Risk
+5089,M,34,M,3,Yes,No,3,Yes,Annual Billing,Potentially High Risk
+6769,M,23,S,3,Yes,No,3,No,Annual Billing,Potentially High Risk
+5672,M,47,S,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+2699,F,71,M,1,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+8562,M,61,M,0,Yes,Yes,1,No,Annual Billing,Low Risk
+9360,F,55,M,2,Yes,No,2,Yes,Monthly Billing,Potentially High Risk
+6580,M,27,S,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+8007,M,80,M,2,Yes,No,2,No,Monthly Billing,Moderate Risk
+9549,M,48,S,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+6119,M,82,M,2,No,Yes,2,No,Annual Billing,Moderate Risk
+2518,F,62,S,0,Yes,No,0,No,Bank Transfer,Low Risk
+3712,M,23,S,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+1409,M,21,S,0,Yes,Yes,2,No,Monthly Billing,Moderate Risk
+2149,M,45,M,3,Yes,No,3,Yes,Annual Billing,Potentially High Risk
+1318,F,48,M,1,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+4713,M,51,S,3,Yes,No,3,Yes,Annual Billing,Potentially High Risk
+4708,F,47,S,1,Yes,Yes,5,Yes,Bank Transfer,High Risk - Do Not Insure
+1990,M,41,S,0,Yes,Yes,2,No,Bank Transfer,Moderate Risk
+3852,M,57,S,1,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+2275,M,56,S,0,Yes,No,2,Yes,Bank Transfer,Moderate Risk
+1711,M,35,M,1,Yes,No,2,Yes,Annual Billing,Potentially High Risk
+3043,F,59,S,0,Yes,Yes,3,No,Bank Transfer,Moderate Risk
+7509,F,55,S,0,No,No,2,No,Monthly Billing,Low Risk
+2489,F,51,S,0,No,No,1,No,Bank Transfer,Low Risk
+3842,M,51,S,1,Yes,No,1,Yes,Annual Billing,Potentially High Risk
+7503,F,54,S,0,Yes,No,1,Yes,Bank Transfer,Moderate Risk
+1502,F,32,M,2,No,Yes,2,Yes,Monthly Billing,Potentially High Risk
+8870,M,64,S,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+7823,M,70,M,0,Yes,No,3,No,Annual Billing,Moderate Risk
+9438,F,55,M,1,Yes,Yes,4,Yes,Monthly Billing,Potentially High Risk
+9941,F,61,S,0,No,No,1,Yes,Monthly Billing,Low Risk
+1185,F,63,M,0,No,No,3,No,Bank Transfer,Moderate Risk
+8111,M,36,M,0,No,No,1,No,Bank Transfer,Low Risk
+8655,F,54,S,0,No,Yes,2,No,Monthly Billing,Low Risk
+5935,F,32,M,2,Yes,No,2,No,Annual Billing,Potentially High Risk
+4293,M,21,S,2,Yes,Yes,2,No,Monthly Billing,Potentially High Risk
+9769,F,22,S,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+9549,M,34,M,0,Yes,No,1,Yes,Monthly Billing,Moderate Risk
+7248,F,47,M,0,Yes,No,3,Yes,Annual Billing,Moderate Risk
+5710,M,29,S,0,No,No,2,No,Bank Transfer,Low Risk
+8335,M,57,M,0,Yes,Yes,1,Yes,Monthly Billing,Moderate Risk
+7468,M,17,S,0,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+5717,F,61,M,0,Yes,Yes,1,No,Annual Billing,Moderate Risk
+4851,F,53,S,2,Yes,Yes,2,No,Bank Transfer,Potentially High Risk
+6751,M,64,S,0,Yes,No,3,Yes,Bank Transfer,Moderate Risk
+6783,F,76,M,2,No,Yes,4,Yes,Monthly Billing,High Risk - Do Not Insure
+9660,F,81,S,0,No,No,0,Yes,Bank Transfer,Low Risk
+5805,M,44,S,0,Yes,Yes,2,Yes,Monthly Billing,Moderate Risk
+3634,M,42,M,0,Yes,No,2,Yes,Annual Billing,Moderate Risk
+8847,F,43,S,2,Yes,Yes,5,Yes,Bank Transfer,Potentially High Risk
+5559,M,66,M,0,Yes,Yes,3,Yes,Monthly Billing,Moderate Risk
+6539,M,24,S,0,Yes,No,4,No,Monthly Billing,Moderate Risk
+8324,F,59,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+3739,F,61,M,0,Yes,Yes,1,No,Annual Billing,Low Risk
+5343,F,64,M,1,No,No,1,No,Bank Transfer,Low Risk
+9687,M,43,M,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+1128,F,40,M,1,Yes,Yes,1,Yes,Monthly Billing,Moderate Risk
+4699,F,49,M,0,No,No,0,No,Bank Transfer,Low Risk
+2746,M,64,M,0,No,No,2,Yes,Bank Transfer,Low Risk
+3054,F,25,S,2,Yes,No,2,Yes,Monthly Billing,Potentially High Risk
+1535,M,37,S,2,No,Yes,2,Yes,Annual Billing,Potentially High Risk
+9664,F,53,S,0,No,No,2,No,Annual Billing,Low Risk
+3262,F,36,S,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+1476,F,43,S,2,Yes,Yes,3,No,Monthly Billing,Potentially High Risk
+3183,F,44,M,0,No,Yes,3,No,Monthly Billing,Low Risk
+5532,M,57,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+8581,M,56,M,3,Yes,Yes,5,Yes,Monthly Billing,Potentially High Risk
+7272,F,41,M,1,Yes,Yes,3,No,Monthly Billing,Moderate Risk
+2819,F,18,S,0,Yes,No,5,No,Annual Billing,Moderate Risk
+3235,M,41,S,0,No,No,3,No,Bank Transfer,Moderate Risk
+8993,F,49,S,0,Yes,Yes,1,No,Monthly Billing,Low Risk
+3540,M,60,M,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+2954,F,32,S,0,No,No,2,No,Monthly Billing,Low Risk
+5465,M,27,M,0,No,Yes,1,No,Bank Transfer,Low Risk
+4599,F,61,M,2,Yes,No,2,No,Monthly Billing,Moderate Risk
+8656,F,37,M,2,No,Yes,2,Yes,Monthly Billing,Potentially High Risk
+2996,F,32,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+5843,M,29,M,0,No,No,2,No,Bank Transfer,Moderate Risk
+7437,F,46,S,0,No,Yes,2,No,Bank Transfer,Low Risk
+3182,F,45,M,2,Yes,Yes,2,No,Monthly Billing,High Risk - Do Not Insure
+3511,F,57,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+5419,F,27,M,1,Yes,Yes,2,Yes,Monthly Billing,Moderate Risk
+2211,M,63,M,0,Yes,Yes,1,Yes,Annual Billing,Moderate Risk
+7909,F,51,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+2672,M,19,S,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+5572,M,62,S,1,Yes,Yes,4,Yes,Annual Billing,High Risk - Do Not Insure
+9989,F,26,S,1,Yes,No,2,Yes,Monthly Billing,Moderate Risk
+6939,M,30,M,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+8708,F,20,S,1,No,No,3,No,Annual Billing,Potentially High Risk
+8868,F,35,M,0,Yes,No,0,Yes,Bank Transfer,Moderate Risk
+8082,F,47,S,2,Yes,No,2,Yes,Bank Transfer,Potentially High Risk
+1611,M,26,S,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+4379,F,23,S,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+8833,M,63,M,3,Yes,Yes,3,Yes,Annual Billing,Potentially High Risk
+3430,M,35,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+9321,M,38,M,0,Yes,No,0,Yes,Monthly Billing,Moderate Risk
+4608,F,44,S,2,Yes,No,2,No,Monthly Billing,Potentially High Risk
+6775,F,46,M,0,Yes,Yes,1,Yes,Annual Billing,Moderate Risk
+5120,F,38,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+3220,F,19,S,2,Yes,No,2,Yes,Annual Billing,Potentially High Risk
+7344,F,41,M,1,Yes,Yes,1,Yes,Annual Billing,Potentially High Risk
+6828,M,44,S,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+2805,F,22,S,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+9530,F,50,S,1,Yes,Yes,2,Yes,Bank Transfer,Potentially High Risk
+3275,M,44,M,3,Yes,No,3,No,Bank Transfer,Potentially High Risk
+3597,M,20,S,3,No,Yes,3,No,Monthly Billing,Potentially High Risk
+7502,M,37,M,2,Yes,Yes,5,No,Bank Transfer,Potentially High Risk
+5934,F,73,S,1,Yes,No,3,No,Monthly Billing,Moderate Risk
+2967,M,34,S,2,Yes,No,3,Yes,Bank Transfer,Potentially High Risk
+7632,F,57,S,1,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+5684,M,19,S,1,Yes,No,5,No,Annual Billing,Potentially High Risk
+2789,F,32,M,2,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+4280,M,33,M,0,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+2158,F,52,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+4028,M,41,M,3,No,No,3,Yes,Monthly Billing,Potentially High Risk
+1268,F,41,M,0,Yes,Yes,2,Yes,Monthly Billing,Moderate Risk
+1916,F,26,M,0,Yes,No,2,Yes,Annual Billing,Moderate Risk
+7563,M,38,M,0,Yes,No,1,No,Monthly Billing,Low Risk
+4218,F,58,M,2,Yes,No,5,No,Bank Transfer,Potentially High Risk
+1693,F,40,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+1993,F,65,M,1,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+7965,F,50,S,0,Yes,No,1,No,Bank Transfer,Low Risk
+3962,F,38,M,0,No,Yes,2,No,Annual Billing,Low Risk
+9491,M,24,M,1,Yes,No,1,No,Bank Transfer,Moderate Risk
+8476,M,51,S,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+4604,F,30,M,3,Yes,No,3,No,Bank Transfer,Potentially High Risk
+5425,F,23,S,2,Yes,Yes,2,Yes,Bank Transfer,High Risk - Do Not Insure
+4483,F,63,M,2,Yes,Yes,5,No,Monthly Billing,Potentially High Risk
+7886,F,46,S,2,Yes,Yes,2,No,Bank Transfer,Potentially High Risk
+2913,F,32,M,3,Yes,No,3,No,Annual Billing,Potentially High Risk
+6457,F,62,M,2,Yes,Yes,5,Yes,Monthly Billing,Potentially High Risk
+4557,M,22,M,0,No,No,2,No,Bank Transfer,Low Risk
+5379,F,35,M,0,Yes,No,0,Yes,Monthly Billing,Moderate Risk
+4426,M,16,S,0,Yes,No,2,No,Bank Transfer,Moderate Risk
+2265,M,66,S,1,Yes,Yes,5,No,Bank Transfer,Moderate Risk
+2836,F,53,S,3,Yes,Yes,4,No,Monthly Billing,Potentially High Risk
+2244,M,18,S,0,Yes,No,2,Yes,Monthly Billing,Moderate Risk
+4750,F,47,S,0,Yes,Yes,2,Yes,Monthly Billing,Moderate Risk
+7284,F,74,S,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+6600,M,45,S,1,No,No,1,No,Monthly Billing,Moderate Risk
+1430,M,59,M,1,Yes,Yes,1,No,Annual Billing,Moderate Risk
+4447,F,21,S,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+7240,M,57,S,1,Yes,Yes,4,Yes,Monthly Billing,Potentially High Risk
+5488,M,55,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+4230,F,34,S,2,Yes,Yes,2,No,Monthly Billing,High Risk - Do Not Insure
+5715,M,51,M,2,Yes,Yes,2,No,Annual Billing,Potentially High Risk
+1573,F,29,M,3,Yes,Yes,5,Yes,Bank Transfer,Potentially High Risk
+6459,F,22,S,0,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+2004,F,27,S,0,Yes,Yes,1,No,Bank Transfer,Moderate Risk
+9739,F,40,M,1,Yes,No,1,No,Bank Transfer,Potentially High Risk
+7711,M,53,S,1,Yes,No,3,No,Annual Billing,Potentially High Risk
+3285,F,44,M,1,No,No,1,Yes,Annual Billing,Potentially High Risk
+7311,F,26,S,2,Yes,Yes,3,No,Monthly Billing,Potentially High Risk
+6209,F,25,M,0,Yes,Yes,1,No,Bank Transfer,Moderate Risk
+3809,F,64,M,2,No,Yes,2,Yes,Monthly Billing,Moderate Risk
+8821,M,46,M,1,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+4422,M,19,S,2,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+2314,M,41,M,1,Yes,Yes,3,No,Monthly Billing,Moderate Risk
+1380,M,44,M,1,No,No,1,No,Bank Transfer,Low Risk
+8820,F,55,M,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+2815,M,25,S,2,Yes,Yes,5,No,Monthly Billing,Potentially High Risk
+4930,F,62,M,1,No,Yes,1,No,Monthly Billing,Moderate Risk
+3364,F,53,M,0,Yes,No,0,Yes,Annual Billing,Moderate Risk
+2856,M,34,M,0,No,Yes,0,Yes,Bank Transfer,Low Risk
+6037,M,56,S,0,Yes,No,0,Yes,Monthly Billing,Moderate Risk
+2468,M,57,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+9669,M,19,S,3,Yes,Yes,4,Yes,Monthly Billing,High Risk - Do Not Insure
+3431,F,21,S,3,Yes,No,3,No,Annual Billing,Potentially High Risk
+8400,F,26,S,2,Yes,No,2,No,Annual Billing,Potentially High Risk
+3613,M,54,M,0,No,Yes,3,No,Bank Transfer,Low Risk
+2696,M,61,M,0,Yes,Yes,2,Yes,Annual Billing,Moderate Risk
+6520,M,30,S,0,Yes,Yes,2,Yes,Monthly Billing,Moderate Risk
+3604,M,46,M,1,Yes,No,1,Yes,Monthly Billing,Potentially High Risk
+8747,M,20,S,0,Yes,Yes,3,No,Bank Transfer,Moderate Risk
+4842,F,16,S,2,Yes,Yes,2,No,Annual Billing,Potentially High Risk
+5769,M,24,S,2,Yes,Yes,2,Yes,Annual Billing,High Risk - Do Not Insure
+5093,M,43,S,0,Yes,Yes,1,Yes,Bank Transfer,Moderate Risk
+2842,M,21,M,0,Yes,Yes,2,No,Monthly Billing,Moderate Risk
+7044,F,72,S,2,Yes,No,2,No,Annual Billing,Moderate Risk
+8034,M,43,S,0,Yes,Yes,4,Yes,Monthly Billing,Moderate Risk
+7157,M,61,S,1,Yes,No,2,No,Annual Billing,Moderate Risk
+3358,M,42,S,0,No,No,2,No,Bank Transfer,Low Risk
+5579,M,22,S,2,Yes,Yes,2,No,Monthly Billing,High Risk - Do Not Insure
+7413,M,44,S,1,Yes,No,1,No,Monthly Billing,Moderate Risk
+9407,M,54,S,1,Yes,Yes,1,No,Monthly Billing,Potentially High Risk
+8425,F,46,M,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+7932,F,61,S,2,Yes,No,2,No,Monthly Billing,Potentially High Risk
+4159,F,28,S,0,No,Yes,2,No,Monthly Billing,Low Risk
+9903,M,47,M,3,Yes,No,3,Yes,Monthly Billing,Potentially High Risk
+6626,M,49,S,2,No,Yes,2,Yes,Monthly Billing,Potentially High Risk
+4400,F,56,M,2,Yes,Yes,3,No,Annual Billing,Potentially High Risk
+9825,F,53,S,0,Yes,Yes,1,No,Monthly Billing,Low Risk
+8196,M,36,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+7282,F,56,S,2,Yes,No,2,Yes,Annual Billing,Potentially High Risk
+2190,F,41,M,0,Yes,No,5,No,Monthly Billing,Moderate Risk
+2879,F,54,S,1,Yes,No,1,No,Monthly Billing,Moderate Risk
+2269,F,60,M,1,Yes,Yes,1,Yes,Monthly Billing,Potentially High Risk
+6144,M,47,M,0,Yes,No,1,Yes,Annual Billing,Moderate Risk
+8877,M,26,S,0,Yes,No,3,No,Monthly Billing,Moderate Risk
+5763,M,25,S,2,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+4470,M,74,M,0,Yes,No,0,No,Monthly Billing,Low Risk
+3381,F,65,M,0,Yes,No,2,Yes,Annual Billing,Moderate Risk
+6003,M,55,S,1,Yes,No,1,No,Monthly Billing,Moderate Risk
+8716,M,53,M,0,Yes,No,3,No,Annual Billing,Moderate Risk
+4933,M,38,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+1588,M,19,S,3,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+1363,M,24,S,3,Yes,Yes,3,No,Annual Billing,Potentially High Risk
+4949,F,21,M,0,Yes,Yes,3,No,Annual Billing,Moderate Risk
+4739,M,61,M,0,No,No,1,No,Annual Billing,Low Risk
+9107,F,46,S,2,Yes,No,2,No,Annual Billing,Potentially High Risk
+1269,M,61,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+7218,F,37,M,1,Yes,No,1,No,Monthly Billing,Potentially High Risk
+3239,M,58,S,1,Yes,No,1,No,Annual Billing,Moderate Risk
+6012,M,35,M,3,Yes,Yes,5,Yes,Annual Billing,Potentially High Risk
+3307,M,36,S,0,No,No,0,Yes,Monthly Billing,Low Risk
+2061,M,45,M,2,Yes,No,2,Yes,Monthly Billing,Potentially High Risk
+9489,M,53,S,2,Yes,Yes,2,Yes,Monthly Billing,Potentially High Risk
+9623,F,41,S,0,No,No,2,No,Bank Transfer,Moderate Risk
+2580,F,45,M,1,Yes,Yes,1,Yes,Bank Transfer,Low Risk
+6728,F,44,M,3,Yes,Yes,3,Yes,Monthly Billing,Potentially High Risk
+4830,M,45,S,0,Yes,No,1,No,Monthly Billing,Low Risk
+3882,F,33,M,1,Yes,No,1,No,Annual Billing,Potentially High Risk
+1336,M,20,S,0,Yes,Yes,1,No,Bank Transfer,Moderate Risk
+6984,F,36,M,1,Yes,No,4,Yes,Bank Transfer,Potentially High Risk
+7282,M,23,M,0,Yes,No,0,No,Monthly Billing,Low Risk
+9976,M,62,M,0,No,Yes,2,No,Annual Billing,Low Risk
+3437,M,43,M,2,Yes,Yes,2,Yes,Monthly Billing,Moderate Risk
+7349,F,64,M,0,No,No,0,No,Bank Transfer,Low Risk
+5071,M,36,S,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+5970,F,50,S,0,Yes,No,0,No,Annual Billing,Low Risk
+8727,F,48,M,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+3097,F,38,S,0,Yes,Yes,5,Yes,Bank Transfer,Moderate Risk
+8523,M,46,S,0,No,Yes,3,No,Bank Transfer,Low Risk
+7304,M,54,M,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+7662,M,53,S,0,No,No,2,No,Bank Transfer,Low Risk
+4900,F,49,S,2,Yes,Yes,4,Yes,Monthly Billing,Potentially High Risk
+5364,F,63,M,0,No,No,2,No,Bank Transfer,Low Risk
+4342,M,41,M,0,Yes,Yes,1,No,Annual Billing,Moderate Risk
+1146,M,29,M,2,Yes,No,4,No,Monthly Billing,Potentially High Risk
+1329,M,34,S,1,Yes,No,3,Yes,Annual Billing,Moderate Risk
+3435,F,63,S,0,No,Yes,2,No,Bank Transfer,Low Risk
+4310,M,19,S,1,Yes,Yes,3,No,Bank Transfer,Potentially High Risk
+2439,M,56,S,1,Yes,Yes,1,Yes,Annual Billing,Potentially High Risk
+8772,M,43,S,0,Yes,Yes,1,No,Bank Transfer,Low Risk
+8632,M,31,M,0,No,No,2,No,Bank Transfer,Low Risk
+3779,M,63,M,1,Yes,Yes,1,No,Monthly Billing,Moderate Risk
+6437,F,59,M,0,Yes,No,0,No,Annual Billing,Low Risk
+4788,F,39,M,0,Yes,No,0,No,Bank Transfer,Low Risk
+2098,M,27,S,3,Yes,Yes,3,Yes,Bank Transfer,Potentially High Risk
+8350,M,46,S,2,Yes,No,3,No,Annual Billing,Potentially High Risk
+6240,F,45,M,2,Yes,No,2,Yes,Bank Transfer,Potentially High Risk
+7438,M,35,S,0,Yes,No,0,No,Bank Transfer,Low Risk
+9598,F,61,M,1,Yes,Yes,4,No,Monthly Billing,Moderate Risk
+9863,M,26,S,0,No,No,3,Yes,Annual Billing,Moderate Risk
+2681,M,33,M,2,Yes,Yes,2,Yes,Monthly Billing,High Risk - Do Not Insure
+4161,M,32,S,1,Yes,Yes,4,Yes,Monthly Billing,Potentially High Risk
+2390,F,34,S,3,Yes,No,3,No,Monthly Billing,Potentially High Risk
+1793,M,46,M,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+1388,F,38,S,3,Yes,Yes,4,Yes,Monthly Billing,High Risk - Do Not Insure
+6695,M,16,S,0,Yes,No,1,No,Monthly Billing,Moderate Risk
+2975,M,22,S,0,Yes,No,4,No,Monthly Billing,Moderate Risk
+4154,M,17,S,3,Yes,Yes,3,Yes,Monthly Billing,High Risk - Do Not Insure
+7032,F,53,S,0,Yes,No,4,Yes,Annual Billing,Moderate Risk
