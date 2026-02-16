@@ -133,3 +133,6 @@ Decision Tree/
 - Uses `random_state=42` for consistent results.
 - One-hot encoding uses `handle_unknown="ignore"` so unseen categories in scoring data won’t crash the pipeline.
 - Training accuracy is reported, while model selection is based on cross-validation for a more stable comparison.
+
+🌐 **PixelKraze Analytics (Portfolio):** https://pixelkraze.com/?utm_source=github&utm_medium=readme&utm_campaign=portfolio&utm_content=homepage
+
